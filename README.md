@@ -8,6 +8,9 @@ DURATION- 1 MONTH
 
 Project Overview
 The Customer Demographics Analysis dashboard provides a comprehensive view of customer data, including age, gender, income, and geographic location. The purpose is to help businesses make data-driven decisions to tailor marketing strategies, target customer segments more effectively, and improve overall customer engagement.
+SNAPSHOT - 
+![TASK 2](https://github.com/user-attachments/assets/e743bc01-b0de-4654-82d9-fcd0ae91b3bf)
+
 
 Problem Statement
 This analysis focuses on understanding the characteristics of a company's customer base through demographic data. By exploring factors such as age, gender distribution, income levels, and regional concentration, the dashboard enables data-backed decisions to optimize marketing, identify high-value customer segments, and guide strategic business improvements.
